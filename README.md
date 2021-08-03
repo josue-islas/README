@@ -33,10 +33,11 @@
   
 &nbsp;  
 
-<!-- Quote -->
+
+  <!-- Social Network -->
+  <!--
 <p align="center">Contact me
   
-  <!-- Social Network -->
 <h1 align="center">
 <a href="https://www.instagram.com/lunox.code/">
   <img align="center" 
@@ -65,7 +66,7 @@
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
   </a>
-  
+
 <a href="mailto:lunox.code@gmail.com">
   <img align="center" 
        alt="Gmail" 
@@ -73,7 +74,7 @@
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
 </h1>
-
+  -->
 <!-- GitHub Stats 
 <H2 align="center"><strong>GitHub Statistics: 
   </strong>
